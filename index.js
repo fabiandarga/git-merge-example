@@ -6,3 +6,4 @@ function add(a, b) {
 }
 
 console.log( add(some, other) );
+console.log( add(some, other) );
