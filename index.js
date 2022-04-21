@@ -1,8 +1,9 @@
-const some = 1;
-const other = 2;
+const some = "11";
+const other = 5;
 
 function subtraction(a, b) {
-    return a - b;
+    const number_a = parseInt(a)
+    return number_a - b;
 }
 
 console.log( subtraction(some, other) );
